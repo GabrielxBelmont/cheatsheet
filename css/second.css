@@ -1,0 +1,18 @@
+.btn-roundabout {
+    background-color:red;
+    color: white;
+    border-radius: 0;
+}
+.btn-roundabout:hover {
+   background-color:red;
+    color: white; 
+}
+.btn-roundabout:active {
+    background-color: darkred;
+    color: white;
+}
+.jumbotron23 {
+    background-image: url("images/back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
